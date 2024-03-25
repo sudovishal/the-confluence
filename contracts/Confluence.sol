@@ -8,7 +8,7 @@ contract TokenMaster is ERC721 {
     uint256 public totalOccasions;
     uint256 public totalSupply;
 
-    struct Occasion {
+ struct Occasion {
         uint256 id;
         string name;
         uint256 cost;
