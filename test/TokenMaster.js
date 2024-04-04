@@ -1,7 +1,7 @@
 const { expect } = require("chai");
 
-const NAME = "Confluence";
-const SYMBOL = "TC";
+const NAME = "TokenMaster";
+const SYMBOL = "TM";
 
 const OCCASION_NAME = "ETH Texas";
 const OCCASION_COST = ethers.utils.parseUnits("1", "ether");
